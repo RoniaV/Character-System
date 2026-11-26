@@ -26,9 +26,9 @@ The repository only includes the code for the system and the physics. I have als
 
 The demo uses code from my repositories:
 
-- [Weapon System](https://github.com/YOUR-USERNAME/Weapon-System)
-- [Unity FSM](https://github.com/YOUR-USERNAME/Unity-FSM)
-- [Unity Utils](https://github.com/YOUR-USERNAME/Unity-Utils)
+- [Weapon System](https://github.com/RoniaV/WeaponSystem)
+- [Unity FSM](https://github.com/RoniaV/Unity-FSM)
+- [Unity Utils](https://github.com/RoniaV/Unity-Utils)
 
 The following third-party assets are also used:
 
